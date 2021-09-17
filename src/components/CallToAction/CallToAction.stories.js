@@ -2,7 +2,7 @@ import React from 'react';
 import CallToAction from './CallToAction';
 
 export default {
-  title: 'Application/Component Library/CallToAction',
+  title: 'Application/Components/CallToAction',
   component: CallToAction,
   controls: {
     hideNoControlsWarning: true

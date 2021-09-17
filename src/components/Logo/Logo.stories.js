@@ -2,7 +2,7 @@ import React from 'react';
 import Logo from './Logo';
 
 export default {
-  title: 'Application/Component Library/Logo',
+  title: 'Application/Components/Logo',
   component: Logo,
   argTypes: {
       size: {control: 'text'}
